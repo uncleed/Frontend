@@ -1,0 +1,43 @@
+.task2 {
+  font-weight: bold;
+}
+.left {
+  text-align: left;
+  font-weight: normal;
+}
+.right {
+  text-align: right;
+  font-weight: normal;
+}
+.center {
+  text-align: center;
+  font-weight: normal;
+}
+.justify {
+  text-align: justify;
+  text-align-last: justify;
+  font-weight: normal;
+}
+.task3_4 {
+  text-align: left;
+  position: relative;
+  bottom: 0;
+}
+.one {
+  font-style: italic;
+}
+.two {
+  font-style: normal;
+}
+.three {
+  font-style: oblique;
+}
+.four {
+  font-style: italic;
+}
+.five {
+  font-style: normal;
+}
+.six {
+  font-style: oblique;
+}
